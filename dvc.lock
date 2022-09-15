@@ -4,5 +4,5 @@ stages:
     cmd: /home/test/testKernel/env_21/bin/python ml.py
     outs:
     - path: test.json
-      md5: 32d420eaa449986da1e542091af1f3eb
-      size: 49
+      md5: f387c0ad428f738bc036a9fb9fcb7982
+      size: 50

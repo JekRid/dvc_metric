@@ -1,0 +1,6 @@
+stages:
+  first:
+    cmd: /home/test/testKernel/env_21/bin/python ml.py
+    metrics:
+    - test.json:
+        cache: false
